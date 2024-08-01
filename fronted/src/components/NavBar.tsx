@@ -18,16 +18,7 @@ const NavBar = () => {
               Upload
             </Link>
           </li>
-          <li>
-            <Link href="/categories">
-              Categories
-            </Link>
-          </li>
-          <li>
-            <Link href="/profile">
-              Profile
-            </Link>
-          </li>
+         
         </ul>
       </div>
     </nav>
